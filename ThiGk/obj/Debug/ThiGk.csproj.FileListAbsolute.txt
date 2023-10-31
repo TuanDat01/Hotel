@@ -1,0 +1,10 @@
+D:\Lap trinh Window\ThiGk\ThiGk\bin\Debug\ThiGk.exe.config
+D:\Lap trinh Window\ThiGk\ThiGk\bin\Debug\ThiGk.exe
+D:\Lap trinh Window\ThiGk\ThiGk\bin\Debug\ThiGk.pdb
+D:\Lap trinh Window\ThiGk\ThiGk\obj\Debug\ThiGk.csproj.AssemblyReference.cache
+D:\Lap trinh Window\ThiGk\ThiGk\obj\Debug\ThiGk.Form1.resources
+D:\Lap trinh Window\ThiGk\ThiGk\obj\Debug\ThiGk.Properties.Resources.resources
+D:\Lap trinh Window\ThiGk\ThiGk\obj\Debug\ThiGk.csproj.GenerateResource.cache
+D:\Lap trinh Window\ThiGk\ThiGk\obj\Debug\ThiGk.csproj.CoreCompileInputs.cache
+D:\Lap trinh Window\ThiGk\ThiGk\obj\Debug\ThiGk.exe
+D:\Lap trinh Window\ThiGk\ThiGk\obj\Debug\ThiGk.pdb
