@@ -23,8 +23,12 @@ namespace ThiGk
 
         public voit test
         {
-            
+
         }    
+        public void kiemtracomy
+        {
+            return github
+        }
 
         public Form1()
         {
