@@ -20,7 +20,9 @@ namespace ThiGk
         DataTable dt;        
         SqlDataAdapter da;   
         SqlCommand cmd;      
-
+        public{
+            
+        }
         public Form1()
         {
             InitializeComponent();
