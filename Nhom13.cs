@@ -19,7 +19,12 @@ namespace ThiGk
         SqlConnection con;   
         DataTable dt;        
         SqlDataAdapter da;   
-        SqlCommand cmd;      
+        SqlCommand cmd;  
+
+        public voit test
+        {
+            
+        }    
 
         public Form1()
         {
